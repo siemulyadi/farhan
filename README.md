@@ -17,6 +17,7 @@
 <p><strong>-Menambah dan Menghapus Foto</strong></p>
 <p><strong>-Share dan Download foto</strong></p>
 
+![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(2).png?raw=true)
 
